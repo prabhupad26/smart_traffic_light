@@ -80,7 +80,9 @@ class Lane:
 
                 yield traffic_details, self.number
             else:
-                # TODO : do we raise exception when the video ends ?
+
+                # TODO : Handle cases when there is no vehicle
+                # (bug # 1 : no detection even when there is a vehicle)
                 # TODO : Handle cases when there is not vehicle (or no detection)
                 print("Video has ended")
 
