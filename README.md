@@ -21,3 +21,10 @@ install the requirements with `pip install -r requirements`
 * Install the required libraries using `pip install -r requirements.txt`
 * Run the application using `python app.py`.
 * Open the URL `http://localhost:5000/` in your web browser.
+
+
+#### System architecture
+
+<p align="center">
+  <img src="system_architecture.png" alt="system architecture">
+</p>
