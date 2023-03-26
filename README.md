@@ -1,6 +1,8 @@
 ## Traffic management system
 
-![main logo](main_logo.png)
+<p align="center">
+  ![main logo](main_logo.png)
+</p>
 
 This is a web application that uses the YOLOv5 and YOLOv8 object detection models to simulate the behavior of traffic lights at an intersection. 
 The simulation can be run with or without AI.
