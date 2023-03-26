@@ -1,7 +1,7 @@
 ## Traffic management system
 
 <p align="center">
-  ![main logo](main_logo.png)
+  <img src="main_logo.png" alt="main logo">
 </p>
 
 This is a web application that uses the YOLOv5 and YOLOv8 object detection models to simulate the behavior of traffic lights at an intersection. 
