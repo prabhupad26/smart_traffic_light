@@ -1,0 +1,14 @@
+###################
+# general configs #
+###################
+general:
+  project_base_path: "C:\Users\prabh\OneDrive\Documents\GitHub\case_study_1\experiment_data"
+
+###################
+# model configs #
+###################
+models:
+  yolov5s_base: "model_weights/yolov5s.pt"
+  yolov5s_tuned: "model_weights/yolov5s_custom_v26_trained.pt"
+
+

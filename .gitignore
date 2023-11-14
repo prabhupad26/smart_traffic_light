@@ -1,3 +1,9 @@
-.ipynb_checkpoints
+raw_data
+*.pt
 .idea
+.vscode
+__pycache__
+*.avi
 *.mp4
+.ipynb_checkpoints
+*.pyc

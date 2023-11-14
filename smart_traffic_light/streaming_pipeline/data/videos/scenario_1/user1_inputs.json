@@ -1,0 +1,43 @@
+{
+   "scenario_name":"t-junction scenario 1",
+   "initial_conditions":{
+      "stl_timer_default":"60",
+      "lane_props":{
+         "1":{
+            "status":"green",
+            "video_feed":"lane_1_feed_user1.mp4",
+            "lane_type":{
+               "direction":"incoming",
+               "exit":[
+                  "3"
+               ]
+            }
+         },
+         "2":{
+            "status":"red",
+            "video_feed":"lane_2_feed_user1.mp4",
+            "lane_type":{
+               "direction":"incoming",
+               "exit":[
+                  "3"
+               ]
+            }
+         },
+         "3":{
+            "status":null,
+            "video_feed":null,
+            "lane_type":{
+               "direction":"outgoing",
+               "exit":[
+
+               ]
+            }
+         }
+      }
+   },
+   "vehicle_priority":{
+      "ambulance":"1",
+      "police_car":"2",
+      "firetruck":"3"
+   }
+}

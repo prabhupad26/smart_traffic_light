@@ -1,0 +1,21 @@
+{
+  "scenario_1": {
+    "lanes": {
+      "lane_1": {
+        "type": "incoming",
+        "exit": [
+          "lane_3"
+        ]
+      },
+      "lane_2": {
+        "type": "incoming",
+        "exit": [
+          "lane_3"
+        ]
+      },
+      "lane_3": {
+        "type": "exit"
+      }
+    }
+  }
+}
