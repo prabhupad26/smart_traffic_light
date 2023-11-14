@@ -9,7 +9,7 @@ The simulation can be run with or without AI.
 <br>
 
 <p align="center">
-  <img src="tms_screenshot.png" alt="tms screenshot">
+  <img src="gif.gif" alt="tms screenshot" width="650" height="500">
 </p>
 
 #### Setup
@@ -32,3 +32,5 @@ install the requirements with `pip install -r requirements`
 <p align="center">
   <img src="system_architecture.png" alt="system architecture">
 </p>
+
+
